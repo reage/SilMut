@@ -1,5 +1,6 @@
 # SilMut
 This program was recompilated and enhanced by Li Yao to let it works in windows platform, and it was firstly designed by B. Shankarappa, D.A. Sirko, and G.D. Ehrlich.
+
 1.  B. Shankarappa, D.A. Sirko, and G.D. Ehrlich.  A General Method
 for the Identification of Regions Suitable for Site-Directed Silent
 Mutagenesis.  BioTechniques 12, No. (3): 382-384
